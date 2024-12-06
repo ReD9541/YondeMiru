@@ -1,4 +1,4 @@
-package com.example.yodemiru
+package com.example.yondemiru
 
 import org.junit.Test
 

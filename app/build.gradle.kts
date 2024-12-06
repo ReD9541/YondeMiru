@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.yodemiru"
+    namespace = "com.example.yondemiru"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.yodemiru"
+        applicationId = "com.example.yondemiru"
         minSdk = 31
         targetSdk = 34
         versionCode = 1

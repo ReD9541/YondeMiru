@@ -1,0 +1,35 @@
+# Site settings
+title: YondeMiru
+description: Your go-to platform for reviews on movies, books, and more!
+url: https://red9541.github.io/YondeMiru
+baseurl: "/YondeMiru" # Set to the repository name for proper linking
+
+# Theme settings
+theme: jekyll-theme-cayman # Replace with your chosen theme
+
+# Navigation
+header_pages:
+  - index.html
+  - about.md
+  - reviews.md
+  - contact.md
+
+# Markdown settings
+markdown: kramdown
+
+# Social links
+social_links:
+  - github: https://github.com/red9541
+  - twitter: https://twitter.com/yourhandle
+
+# Plugins
+plugins:
+  - jekyll-feed # Add additional plugins as required
+
+# Exclusions
+exclude:
+  - README.md
+  - LICENSE
+
+# Build settings
+remote_theme: "jekyll/minimal-theme" # Replace with a custom theme if needed
